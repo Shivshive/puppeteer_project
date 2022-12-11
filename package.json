@@ -1,0 +1,13 @@
+{
+  "name": "puppeteer_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node tests/test2.spec.js"
+  },
+  "dependencies": {
+    "puppeteer": "^15.4.0",
+    "puppeteer-core": "^15.4.0"
+  }
+}
